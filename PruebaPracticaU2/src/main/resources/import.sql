@@ -1,0 +1,4 @@
+INSERT INTO Empleado (apellido, nombre, direccion, observacion, telefono, fecha_nacimiento, sueldo, dias_trabajo) VALUES ('Guaman', 'Daniel', 'Calle Falsa 123', 'Empleado del mes', '123456789', '1990-01-01', 450.00, 30);
+INSERT INTO Empleado (apellido, nombre, direccion, observacion, telefono, fecha_nacimiento, sueldo, dias_trabajo) VALUES ('Balarezo', 'Carolina', 'Av. Siempre Viva 456', 'Excelente desempeño', '987654321', '1985-05-15', 320.00, 22);
+INSERT INTO Empleado (apellido, nombre, direccion, observacion, telefono, fecha_nacimiento, sueldo, dias_trabajo) VALUES ('Lopez', 'Carlos', 'Calle 3', 'Buena actitud', '555555555', '1978-03-22', 150.00, 10);
+INSERT INTO Empleado (apellido, nombre, direccion, observacion, telefono, fecha_nacimiento, sueldo, dias_trabajo) VALUES ('Garcia', 'Ana', 'Av. Principal 789', 'Requiere mejora', '333333333', '1992-12-12', 225.00, 15);
